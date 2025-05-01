@@ -1,0 +1,1 @@
+This web blog system uses ASP.NET to display, create, edit, & delete blogs. Plese use Visual Studio 2022 to run the project. The project template is "ASP.NET Core Web App (Model-View-Controller)". It's far from completion. Thank you for giving me a chance to improve myself.
